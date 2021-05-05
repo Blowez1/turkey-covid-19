@@ -1,7 +1,7 @@
 <template>
   <div class="container mt-5">
     <div class="d-flex justify-content-center mb-5">
-      <h1 class="title">TÜRKİYE COVID-19 HASTA TABLOSU</h1>
+      <h1 class="title">TÜRKİYE COVID-19 TOPLAM DURUM TABLOSU</h1>
     </div>
     <table-tr></table-tr>
   </div>
