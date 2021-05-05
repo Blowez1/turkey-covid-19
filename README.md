@@ -1,11 +1,9 @@
 # turkey-covid-19
 
-> A Vue.js project
-
 ## Build Setup
 
 ``` bash
-# install dependencies
+# install dependenciesCancel changes
 npm install
 
 # serve with hot reload at localhost:8080
